@@ -1,4 +1,4 @@
-# README.md for WebRTC ROS Video Streaming Application
+#  Video Streaming for ROS web video server
 
 ## Overview
 
